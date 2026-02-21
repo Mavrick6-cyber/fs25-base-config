@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<dedicatedServerConfig>
+    <port>GAME_PORT_HERE</port>
+    <web_server_port>WEB_PORT_HERE</web_server_port>
+    ...
+</dedicatedServerConfig>
